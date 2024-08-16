@@ -4,4 +4,4 @@ This is a better holder for a film of a Pool. This part is to replace the clips 
 
 this is in 2 parts and clip together
 
-<img src="pic/final-part.png">
+<img src="final-part.png">
